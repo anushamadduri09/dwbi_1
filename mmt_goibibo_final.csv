@@ -1,0 +1,279 @@
+Hotel_ID,Hotel_Name,City,Hotel_Facilities,Country,Latitude,Longitude,Point_of_Interest,Property_Type,Room_Count,Room_Type,Goibibo_Rating,State,Existence_of_Airport,Hotel_Star_Rating,MMT_Rating,Free_Internet,Gym,Internet_Access,Restaurant,Room_Service,Spa,Swimming_Pool
+1,AR Suites Fontana Bay,Pune,Room Service|Internet Access|Free Internet,India,18.5479334,73.90096309,5,Service Apartment,19,1 Bedroom,4.6,Maharashtra,1,3,4.7,1,0,1,0,1,0,0
+2,Ashirwad Homestay,Guwahati,Room Service|Free Internet,India,26.16618281,91.77741357,5,Hotel,4,Deluxe Ac Suite with Kitchentte,4.3,Assam,1,2,4.3,1,0,0,0,1,0,0
+3,Baragarh Villa,Manali,Room Service|Free Internet,India,32.2396325,77.1887145,4,Resort,8,Royal Suite,5,Himachal Pradesh,1,4,5,1,0,0,0,1,0,0
+4,Bay Luxe,Goa,Swimming Pool|Room Service|Free Internet,India,15.2993265,74.123996,7,Hotel,10,Deluxe Room,4,Goa,1,5,4,1,0,0,0,1,0,1
+5,Best Western Plus O2,Indore,Room Service|Swimming Pool|Restaurant|Free Internet,India,22.71761108,75.87462344,7,Hotel,50,Standard Room,4.5,Madhya Pradesh,1,4,4.6,1,0,0,1,1,0,1
+6,Bhagini Residency,Bangalore,Room Service,India,12.9715987,77.5945627,7,Hotel,35,Twin Bed Deluxe,1.9,Karnataka,1,1,1.9,0,0,0,0,1,0,0
+7,Bhainsrorgarh Fort Hotel,Kota,Room Service,India,24.9673086,75.5524157,1,Hotel,13,River View suite,4,Rajasthan,1,1,4,0,0,0,0,1,0,0
+8,Bhavani Residency,Nellore,Room Service,India,14.4462682,79.9794142,6,Hotel,10,Standard Ac Room,4,Andhra Pradesh,1,2,4,0,0,0,0,1,0,0
+9,Bikamp Adventures,Leh,Room Service|Restaurant,India,34.06389597,77.62580533,1,Tent,15,Alpine Tent,4.7,Jammu and Kashmir,1,1,4.9,0,0,0,1,1,0,0
+10,Birds Valley Resorts,Munnar,Room Service,India,10.0889333,77.0595248,2,Resort,22,Valley View,4.4,Kerala,0,3,4,0,0,0,0,1,0,0
+11,Black Beach Resort,Varkala,Internet Access|Restaurant,India,8.7403891,76.6974664,5,Resort,7,Standard Non AC Room,3.1,Kerala,1,1,3.1,0,0,1,1,0,0,0
+12,Blackberry Hills Retreat and Spa,Munnar,Room Service|Internet Access|Restaurant|Free Internet,India,10.0543016,77.0669966,12,Resort,34,Cirrus Cottage,4.4,Kerala,1,4,4.1,1,0,1,1,1,0,0
+13,Blue Country Resort,Panchgani,Room Service|Gym/Spa|Swimming Pool|Restaurant|Free Internet,India,17.91780604,73.80532761,8,Resort,40,Deluxe AC Room,3.8,Maharashtra,0,3,4,1,1,0,1,1,1,1
+14,Blue Hills,Pelling,Restaurant,India,27.31884,88.238499,1,Hotel,7,Deluxe View Room,4.5,Sikkim,1,1,4.5,0,0,0,1,0,0,0
+15,Blue Marine Beach Resort,Goa,Restaurant|Swimming Pool,India,15.55434668,73.75410575,8,Hotel,20,Deluxe Non AC Room,3.5,Goa,0,1,3.5,0,0,0,1,0,0,1
+16,Bombay Nightout,Mumbai,Room Service|Free Internet,India,19.0408636,72.8434571,5,Hotel,14,Deluxe Room,4,Maharashtra,0,2,4,1,0,0,0,1,0,0
+17,Bommana Residency,Rajahmundry,Room Service,India,17.0005383,81.8040345,5,Lodge,23,Standard AC Room,3.1,Andhra Pradesh,0,1,3.6,0,0,0,0,1,0,0
+18,Bon Sejour,Pondicherry,Room Service|Internet Access|Restaurant|Free Internet,India,11.93368966,79.81191764,13,Hotel,36,Standard Twin Room,4.2,Pondicherry,1,3,4.3,1,0,1,1,1,0,0
+19,Boon Inn,Palakkad,Room Service|Internet Access|Restaurant,India,10.7867303,76.6547932,5,Hotel,26,AC Suite Room,4.4,Kerala,1,1,4.6,0,0,1,1,1,0,0
+20,Buckscent Corbett Retreat,Corbett,Room Service|Swimming Pool|Restaurant|Free Internet,India,29.36155624,79.23516135,1,Resort,12,Standard Room,5,Uttarakhand,1,3,4.8,1,0,0,1,1,0,1
+21,Buddha Guest House,Varanasi,Restaurant|Free Internet,India,25.3176452,82.9739144,2,Guest House,10,Standard AC Room,3.6,Uttar Pradesh,0,1,3.6,1,0,0,1,0,0,0
+22,Buddha Heritage,Patna,Room Service|Restaurant|Free Internet,India,25.63102101,85.11001091,7,Hotel,29,Club Deluxe Room,4,Bihar,1,3,3.7,1,0,0,1,1,0,0
+23,Butola Guest House,Dehradun,Room Service,India,30.2882791,78.0259281,1,Hotel,15,Standard Room,4,Uttarakhand,1,1,4,0,0,0,0,1,0,0
+24,C 9 Service Apartments,Hyderabad,Room Service,India,17.385044,78.486671,18,Service Apartment,2,Standard Room,4,Andhra Pradesh,0,1,4,0,0,0,0,1,0,0
+25,Calangute Residency,Goa,Room Service|Internet Access|Swimming Pool|Restaurant,India,15.5494718,73.744731,9,Hotel,6,Deluxe AC Room,4.6,Goa,1,1,4.6,0,0,1,1,1,0,1
+26,Camp Paradise,Jaisalmer,Room Service|Internet Access,India,26.8416156,70.5458295,2,Tent,16,Deluxe camp,3.7,Rajasthan,1,3,3.2,0,0,1,0,1,0,0
+27,Campal Beach Resort,Goa,Room Service,India,15.48837202,73.8122053,11,Resort,10,Double Non AC Room,3.6,Goa,0,1,2.3,0,0,0,0,1,0,0
+28,Capitol Hill,Ranchi,Room Service|Gym/Spa|Restaurant|Free Internet,India,23.344187,85.3228297,2,Hotel,48,Standard Room,4.5,Jharkhand,1,4,4.3,1,1,0,1,1,1,0
+29,Casa Colvale,Goa,Room Service|Internet Access|Swimming Pool|Restaurant|Free Internet,India,15.64946091,73.8205491,5,Resort,15,Casa Star,3.8,Goa,0,1,3.8,1,0,1,1,1,0,1
+30,Casa Paradiso,Goa,Room Service|Internet Access|Free Internet,India,15.4997551,73.8294565,20,Hotel,21,Deluxe Room,3.7,Goa,0,1,3.7,1,0,1,0,1,0,0
+31,Castle Service Apartments Goregaon East,Mumbai,Room Service,India,19.1551485,72.8678551,2,Service Apartment,6,Standard Room,4,Maharashtra,1,1,4,0,0,0,0,1,0,0
+32,Cedar Inn,Darjeeling,Room Service|Internet Access|Restaurant|Free Internet,India,27.03667575,88.26578584,4,Hotel,35,Deluxe Room,5,West Bengal,0,4,4.3,1,0,1,1,1,0,0
+33,Celestial Resorts,Kotagiri,Room Service|Internet Access,India,11.4234426,76.8672749,3,Resort,9,Deluxe Room,3,Tamil Nadu,0,1,4.5,0,0,1,0,1,0,0
+34,Central Gleneagles Heritage Resort,Darjeeling,Room Service|Internet Access|Restaurant|Free Internet,India,27.0467571,88.2686511,6,Resort,8,Suite Room,4.3,West Bengal,1,3,4.3,1,0,1,1,1,0,0
+35,Central Guest House,Agartala,Room Service,India,24.3792801,92.1619112,1,Hotel,15,Standard Room,1,Tripura,0,1,2.3,0,0,0,0,1,0,0
+36,Chandra Imperial,Jodhpur,Room Service|Restaurant|Free Internet,India,26.26380394,73.03562213,2,Hotel,10,Deluxe Room,4.5,Rajasthan,0,3,4.6,1,0,0,1,1,0,0
+37,Check In Check Out,Kolkata,Room Service|Internet Access|Gym/Spa|Restaurant,India,22.5220527,88.3280165,0,Hotel,35,Single Room,3.9,West Bengal,1,3,3.7,0,1,1,1,1,1,0
+38,Chithirapuram Palace,Munnar,Room Service|Internet Access|Restaurant|Free Internet,India,10.03558078,77.05476656,3,Villa,12,Super Deluxe Room,4.3,Kerala,1,3,2.6,1,0,1,1,1,0,0
+39,Chouki Dhani,Rajkot,Internet Access|Restaurant|Swimming Pool,India,22.3144368,70.790491,2,Motel,34,Cottage,4,Gujarat,1,3,4,0,0,1,1,0,0,1
+40,Chowkidinghee Heritage Chang Bungalow,Dibrugarh,Room Service,India,27.4728327,94.9119621,2,Bungalow,1,Deluxe Room,4,Assam,1,1,4,0,0,0,0,1,0,0
+41,Cidade De Goa,Goa,Room Service|Gym/Spa|Swimming Pool|Restaurant|Free Internet,India,15.4586072,73.8167385,19,Resort,264,Standard Room,4.4,Goa,1,5,4.3,1,1,0,1,1,1,1
+42,Clara Hotels,Bangalore,Room Service|Internet Access,India,13.2044921,77.7076907,1,Hotel,10,Economy Non AC Room,3.7,Karnataka,1,2,3.7,0,0,1,0,1,0,0
+43,Clarem Guest House,Goa,Room Service,India,15.21448554,73.93349401,3,Guest House,2,Studio Room,4,Goa,1,1,4,0,0,0,0,1,0,0
+44,Classic Fall Resort,Mussoorie,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant|Free Internet,India,30.43671379,78.08225872,2,Resort,28,Deluxe Room,3.8,Uttarakhand,1,3,3.6,1,1,1,1,1,1,1
+45,Classic Inn,Bangalore,Room Service,India,12.9718915,77.6411545,3,Hotel,11,Executive Room,4,Karnataka,1,1,4,0,0,0,0,1,0,0
+46,Club Mahindra Corbett,Corbett,Room Service|Gym/Spa|Swimming Pool|Restaurant,India,29.4710996,79.15130075,4,Resort,65,Hotel Unit (Superior Room),2.9,Uttarakhand,1,3,4.1,0,1,0,1,1,1,1
+47,Club Mahindra Emerald Palms,Goa,Room Service|Internet Access|Gym/Spa|Swimming Pool,India,15.23869384,73.92993147,14,Resort,126,Hotel Unit (Superior Room),4.5,Goa,0,4,4,0,1,1,0,1,1,1
+48,Club Mahindra Puducherry,Pondicherry,Room Service|Swimming Pool|Restaurant|Free Internet,India,11.80671993,79.79790688,7,Resort,129,Hotel Unit (Superior Room),3.9,Pondicherry,0,4,4.2,1,0,0,1,1,0,1
+49,Club Mahindra Virajpet,Coorg,Room Service|Internet Access|Swimming Pool|Restaurant|Free Internet,India,12.19176,75.80467,7,Resort,183,Hotel Unit (Superior Room),4.2,Karnataka,0,4,4.4,1,0,1,1,1,0,1
+50,Club O7 Service Apartment,Ahmedabad,Room Service,India,23.0029767,72.453774,1,Service Apartment,1,Deluxe Room,4,Gujarat,0,1,4,0,0,0,0,1,0,0
+51,Coco Heritage Home,Goa,Room Service|Swimming Pool|Restaurant|Free Internet,India,15.56920884,73.75346492,5,Hotel,2,Deluxe Room,4,Goa,1,1,4,1,0,0,1,1,0,1
+52,Cocobay Resort,Kumarakom,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant|Free Internet,India,9.618164197,76.42745912,2,Resort,20,Suite Room,4.4,Kerala,0,4,4.4,1,1,1,1,1,1,1
+53,Coconut Grove,Goa,Room Service|Internet Access|Swimming Pool|Restaurant,India,15.29506116,73.9099806,13,Resort,38,Deluxe Room,4.3,Goa,0,3,4.2,0,0,1,1,1,0,1
+54,Coelho Guest House,Goa,Room Service,India,15.2993265,74.123996,2,Guest House,7,Standard AC Room,4,Goa,0,1,4,0,0,0,0,1,0,0
+55,Coffee Land Homestay,Chikmagalur,Room Service|Internet Access|Free Internet,India,13.161738,75.4606903,1,Homestay,2,Standard Room,2.8,Karnataka,0,1,2.6,1,0,1,0,1,0,0
+56,Coffee Terrain,Chikmagalur,Room Service,India,13.315258,75.7754018,2,Homestay,3,Standard Room,3.8,Karnataka,0,1,5,0,0,0,0,1,0,0
+57,Colonia De Braganza Resort,Goa,Room Service|Internet Access|Swimming Pool|Restaurant|Free Internet,India,15.2993265,74.123996,2,Resort,12,Standard AC Room,2.9,Goa,0,3,3.5,1,0,1,1,1,0,1
+58,Colors Apart Hotel,Chennai,Room Service|Internet Access|Gym/Spa|Restaurant,India,13.0361426,80.2779054,13,Resort,10,Double Beded Room,4.2,Tamil Nadu,1,1,4.2,0,1,1,1,1,1,0
+59,Comfort Inn Sunset,Ahmedabad,Room Service|Internet Access|Gym/Spa|Restaurant,India,23.08100049,72.61718224,14,Hotel,10,Deluxe Room,4.4,Gujarat,1,3,4.1,0,1,1,1,1,1,0
+60,Coorg Regency,Coorg,Room Service|Restaurant|Free Internet,India,12.4181883,75.7437883,14,Hotel,28,Deluxe Triple Bed Non AC Room,3.3,Karnataka,0,1,3.4,1,0,0,1,1,0,0
+61,Corbett Adventure Resort,Corbett,Room Service|Swimming Pool|Restaurant,India,29.3067666,79.18556029,6,Resort,24,Deluxe Village Huts,4,Uttarakhand,0,4,4.2,0,0,0,1,1,0,1
+62,Corbett Machaan Resort,Corbett,Room Service|Swimming Pool|Restaurant,India,29.41435802,79.14210806,3,Resort,14,AC Luxury Cottage,4.5,Uttarakhand,1,3,4.4,0,0,0,1,1,0,1
+63,Corbett Suman Grand,Corbett,Room Service|Swimming Pool|Restaurant,India,29.480975,79.1466283,4,Resort,44,Luxury Room,4,Uttarakhand,1,4,4,0,0,0,1,1,0,1
+64,Corporate Inn,Ranchi,Room Service|Restaurant,India,23.3507855,85.3069244,2,Guest House,10,Executive Room,1,Jharkhand,0,1,1,0,0,0,1,1,0,0
+65,Corporate Residency,Ahmedabad,Room Service,India,23.022505,72.5713621,2,Hotel,13,Super Deluxe,5,Gujarat,1,1,3.5,0,0,0,0,1,0,0
+66,Country Club Valley Vista,Kodaikanal,Room Service|Restaurant,India,10.24580289,77.53127754,6,Resort,60,Studio Room,3.7,Tamil Nadu,0,3,3.8,0,0,0,1,1,0,0
+67,Country Side Resort,Pushkar,Room Service|Internet Access|Swimming Pool|Restaurant,India,26.48253557,74.55813388,4,Resort,48,Deluxe Room,4.5,Rajasthan,1,3,4.4,0,0,1,1,1,0,1
+68,Country Spa Kuteeram,Hyderabad,Room Service,India,17.5392302,78.9481657,1,Resort,12,Standard AC Room,3.7,Andhra Pradesh,0,1,2.5,0,0,0,0,1,0,0
+69,Cuba Baga,Goa,Room Service|Internet Access|Restaurant,India,15.55687705,73.75568641,5,Hotel,14,Deluxe Non AC Room,3.8,Goa,1,1,4,0,0,1,1,1,0,0
+70,Darbar Home Stay,Udaipur,Room Service,India,24.5562524,73.6962948,9,Homestay,1,Standard Room,4,Rajasthan,1,1,4,0,0,0,0,1,0,0
+71,Davanam Sarovar Portico Suites,Bangalore,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant|Free Internet,India,12.92167664,77.62095642,12,Hotel,265,Executive Suite,4.7,Karnataka,0,4,4.6,1,1,1,1,1,1,1
+72,De Regency,Pelling,Room Service|Restaurant,India,27.3019861,88.2383218,3,Hotel,24,Super Deluxe,4.1,Sikkim,0,3,4.2,0,0,0,1,1,0,0
+73,Dean Dale Cottage,Thekkady,Room Service,India,9.6031088,77.161458,0,Homestay,7,Budget Room,2,Kerala,0,1,2,0,0,0,0,1,0,0
+74,Deccan Plaza,Chennai,Room Service|Internet Access|Gym/Spa|Restaurant,India,13.04655127,80.26674683,20,Hotel,178,Deccan Superior Room,3.8,Tamil Nadu,0,3,4,0,1,1,1,1,1,0
+75,Deep Hotel,Bahadurgarh,Room Service,India,28.6924464,76.9239727,1,Hotel,4,Standard Room,4,Haryana,1,1,4,0,0,0,0,1,0,0
+76,Delight Hotels Sushanta Awaas,Gangtok,Room Service|Internet Access|Restaurant|Free Internet,India,27.3242367,88.611545,9,Hotel,13,Standard Room (Double Sharing),3.7,Sikkim,1,1,4,1,0,1,1,1,0,0
+77,Deltin Palms Riverfront,Goa,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant,India,15.50899417,73.84325398,10,Resort,27,Executive Suite,4,Goa,1,4,4,0,1,1,1,1,1,1
+78,Deolo Cliff Eco Resort,Kalimpong,Room Service|Restaurant,India,27.05998691,88.46999026,4,Resort,7,Deluxe Double Room,3.6,West Bengal,1,1,4.7,0,0,0,1,1,0,0
+79,Dev Lok International,Kasol,Room Service,India,32.01038525,77.31692252,1,Hotel,26,Three Beded Room,2.8,Himachal Pradesh,0,1,2.6,0,0,0,0,1,0,0
+80,Devonshire Greens,Munnar,Room Service|Internet Access|Gym/Spa|Restaurant|Free Internet,India,10.04923818,77.0567164,2,Resort,16,Valley View Room,4.6,Kerala,1,4,4.4,1,1,1,1,1,1,0
+81,Discovery Village Nandi Foot Hills,Bangalore,Room Service,India,13.25789806,77.71641408,3,Resort,5,AC Cottage,3.5,Karnataka,1,1,3.5,0,0,0,0,1,0,0
+82,Divine Bliss Beach Resort,Varkala,Room Service|Internet Access|Restaurant,India,8.742624304,76.69935119,3,Resort,9,Deluxe AC cottage,5,Kerala,1,2,2.7,0,0,1,1,1,0,0
+83,DM Bluemoon Comforts,Bangalore,Room Service,India,12.93758202,77.62541199,3,Hotel,4,Premium Room,4,Karnataka,0,2,4,0,0,0,0,1,0,0
+84,Dolphin Resort,Havelock,Room Service,India,11.7400867,92.6586401,1,Resort,10,Deluxe Room,4.4,Andaman and Nicobar Islands,0,1,4.3,0,0,0,0,1,0,0
+85,Dom Pedros Haven,Goa,Room Service|Internet Access|Swimming Pool|Restaurant,India,15.3207155,73.9022469,4,Resort,6,Non AC Room,4,Goa,0,2,4.1,0,0,1,1,1,0,1
+86,Doodle Rack,Jaipur,Room Service,India,26.9124336,75.7872709,7,Hostel,5,Studio Room,4,Rajasthan,1,3,4,0,0,0,0,1,0,0
+87,Dream World Resort,Indore,Room Service|Gym/Spa|Swimming Pool|Restaurant,India,22.7372619,75.7728383,2,Resort,11,Super Cottages,3.6,Madhya Pradesh,1,1,4.3,0,1,0,1,1,1,1
+88,Dreams Palm Beach Resort,Goa,Room Service|Internet Access,India,15.54499213,73.75765989,6,Hotel,15,Super Deluxe Room,3.5,Goa,1,2,3.4,0,0,1,0,1,0,0
+89,Dreamz Hotel,Thiruvananthapuram,Room Service|Internet Access,India,8.488479065,76.95425024,6,Hotel,20,Deluxe Room,3.5,Kerala,1,2,3.7,0,0,1,0,1,0,0
+90,E Hotel,Chennai,Room Service|Internet Access|Gym/Spa|Restaurant|Free Internet,India,13.05855051,80.26302477,29,Hotel,45,Elegance Room,4.5,Tamil Nadu,0,4,4.4,1,1,1,1,1,1,0
+91,Eagle Resort,Srinagar,Restaurant,India,34.11555862,74.88352966,6,Resort,17,Deluxe Room,3.1,Jammu and Kashmir,1,1,3.1,0,0,0,1,0,0,0
+92,Ebony Boutique Hotel,Hyderabad,Room Service|Internet Access|Gym/Spa|Restaurant,India,17.4254869,78.4232304,2,Hotel,9,Deluxe Room,4.2,Andhra Pradesh,0,1,4.4,0,1,1,1,1,1,0
+93,Executel Begumpet,Hyderabad,Room Service|Restaurant|Free Internet,India,17.4369108,78.45833493,13,Service Apartment,28,Premium Room,3.4,Andhra Pradesh,1,2,2.8,1,0,0,1,1,0,0
+94,FabHotel Anjuna Beachfront,Goa,Room Service|Internet Access,India,15.57509422,73.74112701,2,Resort,27,Deluxe Room with free Wifi,3.1,Goa,1,3,3.9,0,0,1,0,1,0,0
+95,FabHotel Majestica Inn Hitec City,Hyderabad,Room Service|Internet Access|Restaurant,India,17.46067821,78.36636925,3,Hotel,60,Deluxe Room with free Wifi,4.1,Andhra Pradesh,1,3,4.1,0,0,1,1,1,0,0
+96,FabHotel Shivajinagar,Pune,Room Service|Internet Access|Restaurant,India,18.52307531,73.84906655,16,Hotel,40,Deluxe Room,4.1,Maharashtra,1,3,3.7,0,0,1,1,1,0,0
+97,Flowers Guest House,Goa,Room Service|Restaurant,India,15.540995,73.7843966,3,Guest House,5,AC Double Room,3.8,Goa,0,1,3.8,0,0,0,1,1,0,0
+98,Fort Bridge View Homestay,Cochin,Internet Access,India,9.9312328,76.2673041,3,Homestay,8,Deluxe Room,4,Kerala,1,1,4,0,0,1,0,0,0,0
+99,Fortune Hotel The South Park,Thiruvananthapuram,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant,India,8.500943272,76.94979186,2,Hotel,74,Standard Deluxe Room,4,Kerala,1,4,3.8,0,1,1,1,1,1,1
+100,Fragrant Nature Munnar,Munnar,Room Service,India,10.05466,77.0664266,5,Hotel,12,Tropic Green Room,5,Kerala,1,5,5,0,0,0,0,1,0,0
+101,Hotel Pacific,Gondia,Room Service,India,21.4600405,80.1942787,1,Hotel,15,Executive AC,4.9,Maharashtra,1,1,4.9,0,0,0,0,1,0,0
+102,Hotel Padma Krishna,Pune,Room Service,India,18.5225965,73.86389807,6,Hotel,21,Deluxe Room (non AC),2.9,Maharashtra,1,1,3.5,0,0,0,0,1,0,0
+103,Hotel Padmam,Madurai,Room Service|Internet Access|Restaurant|Free Internet,India,9.917580232,78.1137183,4,Hotel,18,Standard Non AC Room,3.6,Tamil Nadu,0,2,3.7,1,0,1,1,1,0,0
+104,Hotel Padmini Palace,Dehradun,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant|Free Internet,India,30.18446399,78.16817744,2,Hotel,12,Deluxe Room,4.1,Uttarakhand,1,3,3.4,1,1,1,1,1,1,1
+105,Hotel Padmini Palace,Udaipur,Room Service|Internet Access|Restaurant,India,24.57646311,73.69524803,16,Hotel,21,Standard Room,4.4,Rajasthan,1,2,4,0,0,1,1,1,0,0
+106,Hotel Padmini,Chittorgarh,Room Service|Restaurant|Free Internet,India,24.90405164,74.62288756,2,Hotel,15,Deluxe Room,3.4,Rajasthan,1,1,2.3,1,0,0,1,1,0,0
+107,Hotel Palace Inn,Agartala,Room Service|Internet Access,India,23.8368023,91.2830851,4,Hotel,12,Deluxe AC Room,4,Tripura,1,2,4,0,0,1,0,1,0,0
+108,Hotel Pallav,Rajkot,Room Service,India,22.2874646,70.7767544,8,Hotel,26,Deluxe Room,4.5,Gujarat,1,1,4.6,0,0,0,0,1,0,0
+109,Hotel Pallava Dynasty,Mahabalipuram,Room Service,India,12.6194085,80.194441,3,Hotel,5,Garden View Room,3.7,Tamil Nadu,1,2,3.7,0,0,0,0,1,0,0
+110,Hotel Pannadhay Palace,Udaipur,Restaurant,India,24.5772967,73.6815602,11,Hotel,4,Standard Room,3.1,Rajasthan,1,1,3.1,0,0,0,1,0,0,0
+111,Hotel Paradise Continental,Jaipur,Room Service,India,26.950124,75.771581,3,Hotel,22,Semi Deluxe Room,2.8,Rajasthan,1,1,4,0,0,0,0,1,0,0
+112,Hotel Paradise Residency,Ujjain,Room Service|Internet Access|Free Internet,India,23.17610219,75.77250736,5,Hotel,12,Standard Double Bed Room,1.7,Madhya Pradesh,1,1,1.7,1,0,1,0,1,0,0
+113,Hotel Paradise,Indore,Room Service|Internet Access|Restaurant|Free Internet,India,22.7540003,75.8995606,2,Hotel,39,A/C Deluxe Green,3.1,Madhya Pradesh,0,3,3.7,1,0,1,1,1,0,0
+114,Hotel Paradise,Manali,Restaurant,India,32.2396325,77.1887145,12,Hotel,18,Honeymoon Suite,3.7,Himachal Pradesh,0,3,3.1,0,0,0,1,0,0,0
+115,Hotel Paradise,Srinagar,Room Service,India,34.0815124,74.8311931,6,Hotel,53,Super Deluxe Room,3,Jammu and Kashmir,1,2,3,0,0,0,0,1,0,0
+116,Hotel Paras,Chandigarh,Room Service,India,30.7333148,76.7794179,0,Hotel,12,AC Room,1.9,Punjab,1,3,1.9,0,0,0,0,1,0,0
+117,Hotel Park Inn,Varanasi,Room Service|Internet Access|Restaurant|Free Internet,India,25.2948299,82.9718443,8,Hotel,17,Superior Room,3.8,Uttar Pradesh,1,2,3.8,1,0,1,1,1,0,0
+118,Hotel Park Palace,Ajmer,Room Service|Internet Access|Restaurant,India,26.46501341,74.62985485,0,Hotel,24,Standard Room,4.1,Rajasthan,1,2,3.1,0,0,1,1,1,0,0
+119,Hotel Park Shree,Satna,Room Service|Internet Access|Restaurant|Free Internet,India,24.57117892,80.84775519,2,Hotel,15,Deluxe Room,4.6,Madhya Pradesh,1,3,4.6,1,0,1,1,1,0,0
+120,Hotel Parth Executive,Latur,Room Service,India,18.4087934,76.5603828,2,Hotel,33,Non AC Room,2.8,Maharashtra,1,1,2.1,0,0,0,0,1,0,0
+121,Hotel Parth Inn,Goa,Room Service|Restaurant,India,15.545111,73.77285192,8,Hotel,11,Standard Room,3.4,Goa,0,1,3.4,0,0,0,1,1,0,0
+122,Hotel Parth,Haridwar,Room Service,India,29.91722213,78.09831005,5,Hotel,12,Double Bed Non AC Room,3.5,Uttarakhand,1,1,3.5,0,0,0,0,1,0,0
+123,Hotel Pasuparthy Residency,Tirupati,Room Service|Internet Access|Free Internet,India,13.62941602,79.42389496,5,Hotel,32,Standard AC Room,4,Andhra Pradesh,1,1,4.6,1,0,1,0,1,0,0
+124,Hotel Pathik,Dehradun,Room Service,India,30.3164945,78.0321918,2,Hotel,16,Standard Room,4,Uttarakhand,1,1,4,0,0,0,0,1,0,0
+125,Hotel Pathika,Jalgaon,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant,India,21.0167633,75.5635054,5,Hotel,13,Non AC Room,3.7,Maharashtra,1,1,4.1,0,1,1,1,1,1,1
+126,Hotel Patliputra Exotica,Patna,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant|Free Internet,India,25.61165883,85.1426855,6,Hotel,120,Standard Room,3.7,Bihar,1,4,4,1,1,1,1,1,1,1
+127,Hotel Patliputra Nirvana,Patna,Room Service|Restaurant|Free Internet,India,25.6060801,85.1372679,8,Hotel,108,Standard Room,3.6,Bihar,1,3,3.7,1,0,0,1,1,0,0
+128,Hotel Peace,Ahmedabad,Room Service,India,23.01649284,72.57592773,14,Hotel,24,AC Room,4,Gujarat,1,1,4,0,0,0,0,1,0,0
+129,Hotel Peak View,Mussoorie,Room Service,India,30.46178279,78.07118965,0,Hotel,19,Deluxe Room,2.8,Uttarakhand,1,1,2.9,0,0,0,0,1,0,0
+130,Hotel Pearls,Aurangabad,Room Service|Internet Access|Restaurant|Free Internet,India,19.88050248,75.3233542,6,Hotel,21,Executive Room,4.3,Maharashtra,1,3,4.8,1,0,1,1,1,0,0
+131,Hotel Pentas,Agra,Room Service|Internet Access|Restaurant|Free Internet,India,27.17222,78.0091033,18,Hotel,20,Super Deluxe Room,4.3,Uttar Pradesh,1,1,4.3,1,0,1,1,1,0,0
+132,Hotel Perfect Residency,Kolhapur,Room Service,India,16.7059815,74.2580518,0,Hotel,10,Standard Room Non AC Room,2.1,Maharashtra,1,1,2.1,0,0,0,0,1,0,0
+133,Hotel Pink Pearl,Raigarh,Room Service|Internet Access|Gym/Spa|Restaurant|Free Internet,India,21.91384466,83.38326943,1,Hotel,31,Deluxe Room,4.6,Chhattisgarh,0,1,4.6,1,1,1,1,1,1,0
+134,Hotel Pleasant Stay - La Flora,Kodaikanal,Room Service|Restaurant,India,10.2360906,77.494242,11,Hotel,43,Superior Room,3.8,Tamil Nadu,0,3,3.6,0,0,0,1,1,0,0
+135,Hotel Poddar Regency,Dhanbad,Room Service|Internet Access|Free Internet,India,23.7956531,86.4303859,2,Hotel,20,Super Deluxe Room,3.8,Jharkhand,1,2,4.6,1,0,1,0,1,0,0
+136,Hotel Pooja Residency,Satara,Room Service,India,17.68762592,74.00216991,2,Hotel,10,Executive AC Room,3.6,Maharashtra,1,1,3.6,0,0,0,0,1,0,0
+137,Hotel Poshwan,Gulmarg,Room Service,India,34.05502903,74.4009448,3,Hotel,10,Standard Room,3.6,Jammu and Kashmir,1,1,3.8,0,0,0,0,1,0,0
+138,Hotel Praniv Plaza,Dindigul,Room Service|Restaurant|Free Internet,India,10.365944,77.976775,2,Hotel,10,Standard Room,3.8,Tamil Nadu,0,1,3.8,1,0,0,1,1,0,0
+139,Hotel Prasad,Ratnagiri,Room Service,India,16.990215,73.3120233,3,Hotel,16,Deluxe Room,4.3,Maharashtra,1,1,4.3,0,0,0,0,1,0,0
+140,Hotel Prasanti,Angul,Room Service,India,20.8441427,85.1207061,1,Hotel,90,Deluxe Room,4.7,Orissa,0,1,4.7,0,0,0,0,1,0,0
+141,Hotel Prashant Palace,Agra,Internet Access|Restaurant,India,27.15877616,78.05650354,4,Hotel,23,Standard Room,3.5,Uttar Pradesh,0,3,3.5,0,0,1,1,0,0,0
+142,Hotel Prashant,Kausani,Room Service|Restaurant,India,29.84429446,79.60128162,6,Hotel,21,Ordinary Room,4.6,Uttarakhand,0,1,3.7,0,0,0,1,1,0,0
+143,Hotel Pratap Palace,Varanasi,Room Service|Internet Access|Restaurant|Free Internet,India,25.3176452,82.9739144,2,Hotel,46,Executive Room,3.4,Uttar Pradesh,1,1,3.2,1,0,1,1,1,0,0
+144,Hotel Pratham Sai,Shirdi,Room Service|Free Internet,India,19.77,74.48,10,Hotel,38,Deluxe Double Bed AC Room,4.2,Maharashtra,1,1,4.2,1,0,0,0,1,0,0
+145,Hotel Pratiksha,Moradabad,Room Service|Internet Access|Free Internet,India,28.8365927,78.7674363,0,Hotel,32,Non AC Room,3.9,Uttar Pradesh,1,2,4.4,1,0,1,0,1,0,0
+146,Hotel Preet,Manali,Internet Access,India,32.22421265,77.19005585,10,Hotel,69,Family Suite Room,4,Himachal Pradesh,0,1,4,0,0,1,0,0,0,0
+147,Hotel Preetam,Aurangabad,Room Service|Internet Access|Restaurant|Free Internet,India,19.86072726,75.31110818,12,Hotel,24,Standard Non AC Room,4,Maharashtra,0,2,4,1,0,1,1,1,0,0
+148,Hotel Premdeep International,Kashipur,Room Service,India,23.6083987,90.4775171,1,Hotel,10,AC Room,1,Uttarakhand,1,1,1,0,0,0,0,1,0,0
+149,Hotel Presidency,Bangalore,Room Service|Internet Access|Gym/Spa|Restaurant,India,13.1933585,77.6455922,11,Hotel,29,Deluxe Room,3.7,Karnataka,1,3,4.1,0,1,1,1,1,1,0
+150,Hotel President,Chandigarh,Room Service|Internet Access|Gym/Spa,India,30.7275172,76.80404761,8,Hotel,16,Super Deluxe Room,3.6,Punjab,1,3,2.9,0,1,1,0,1,1,0
+151,Hotel President,Dalhousie,Room Service|Restaurant,India,32.530628,75.9731073,14,Hotel,51,Deluxe Room,3.6,Himachal Pradesh,0,2,3.6,0,0,0,1,1,0,0
+152,Hotel President,Indore,Room Service|Internet Access|Restaurant|Free Internet,India,22.71469644,75.87401456,17,Hotel,51,Executive Deluxe Room,3.9,Madhya Pradesh,1,3,3.9,1,0,1,1,1,0,0
+153,Hotel President,Porbandar,Room Service,India,21.6383162,69.61248282,4,Hotel,17,Non AC Room,2.9,Gujarat,1,2,4.5,0,0,0,0,1,0,0
+154,Hotel President,Saharanpur,Room Service,India,29.9706573,77.5417509,6,Hotel,28,Deluxe Room,4.3,Uttar Pradesh,1,1,4.3,0,0,0,0,1,0,0
+155,Hotel Prince Gardens,Coimbatore,Room Service|Internet Access|Restaurant|Free Internet,India,11.01261946,76.96628925,12,Hotel,54,Prince Grand,4.3,Tamil Nadu,1,3,4.5,1,0,1,1,1,0,0
+156,Hotel Prince,Bhuj,Room Service|Restaurant|Free Internet,India,23.2564812,69.6762411,6,Hotel,44,Deluxe Room,4,Gujarat,0,1,4,1,0,0,1,1,0,0
+157,Hotel Prince,Manali,Room Service,India,32.2396325,77.1887145,12,Hotel,12,Deluxe Room,4,Himachal Pradesh,1,2,4,0,0,0,0,1,0,0
+158,Hotel Prince,Mussoorie,Room Service|Internet Access|Restaurant|Free Internet,India,30.46050311,78.06563882,0,Hotel,23,Super Deluxe Room,3.7,Uttarakhand,1,2,3.7,1,0,1,1,1,0,0
+159,Hotel Princess,Darjeeling,Room Service|Restaurant,India,27.0391872,88.2658727,30,Hotel,17,Deluxe Room,3.9,West Bengal,1,1,3.9,0,0,0,1,1,0,0
+160,Hotel Pritam,Nagpur,Room Service|Restaurant|Free Internet,India,21.15061788,79.10425051,3,Hotel,32,AC Double Bedded Room,3.9,Maharashtra,1,2,3.4,1,0,0,1,1,0,0
+161,Hotel Priyadarshini,Hospet,Room Service,India,15.2846719,76.3868144,2,Hotel,40,Standard Non AC Room,3.3,Karnataka,1,1,3.2,0,0,0,0,1,0,0
+162,Hotel Pukhraj,Bhopal,Room Service,India,23.2195169,77.4364912,3,Hotel,51,Standard Non AC Room,4,Madhya Pradesh,1,1,4,0,0,0,0,1,0,0
+163,Hotel Purohit,Jaipur,Room Service,India,26.9210147,75.8011393,27,Hotel,20,Semi Deluxe Room,3.1,Rajasthan,0,2,4.4,0,0,0,0,1,0,0
+164,Hotel Purva,Indore,Room Service,India,22.72050335,75.87189873,7,Hotel,33,Deluxe Non AC Room,3.9,Madhya Pradesh,1,1,4.1,0,0,0,0,1,0,0
+165,Hotel Qutub Villa,Jaisalmer,Room Service|Free Internet,India,26.9111252,70.9105189,12,Hotel,14,Deluxe Room,4.2,Rajasthan,1,1,4.2,1,0,0,0,1,0,0
+166,Hotel Raama,Hassan,Room Service|Internet Access,India,12.99411003,76.08484436,3,Hotel,21,Premium Room Double,4.5,Karnataka,0,2,4.7,0,0,1,0,1,0,0
+167,Hotel Rachna,Srinagar,Room Service|Internet Access|Restaurant|Free Internet,India,34.0836581,74.7973681,4,Hotel,22,Standard Double Room,2.2,Jammu and Kashmir,1,1,2.2,1,0,1,1,1,0,0
+168,Hotel Radhika,Jaisalmer,Room Service|Restaurant|Free Internet,India,26.9247554,70.9098701,12,Hotel,20,Super Deluxe Room,4.3,Rajasthan,0,3,4.3,1,0,0,1,1,0,0
+169,Hotel Rahul,Nagpur,Room Service,India,21.1391452,79.0959836,5,Hotel,47,Suite Room,3,Maharashtra,1,1,3.2,0,0,0,0,1,0,0
+170,Hotel Rainbow Regency,Dhanbad,Room Service,India,23.7880937,86.418098,2,Hotel,10,Deluxe AC Room,1,Jharkhand,0,1,4.2,0,0,0,0,1,0,0
+171,Hotel Rainbow Residency,Hospet,Room Service,India,15.2688542,76.3909241,2,BnB,10,Standard Non AC Room,3.1,Karnataka,1,2,2.3,0,0,0,0,1,0,0
+172,Hotel Raj Tilak,Ahmedabad,Room Service,India,23.0262331,72.5623124,4,Hotel,26,Three Bed Non AC Room,2.5,Gujarat,1,1,2.6,0,0,0,0,1,0,0
+173,Hotel Rajawat Manor,Jaipur,Room Service,India,26.89709513,75.73901729,10,Hotel,20,Super Deluxe Room,4.2,Rajasthan,1,1,4.2,0,0,0,0,1,0,0
+174,Hotel Rajdarshan,Coorg,Room Service,India,12.4158516,75.7361733,5,Hotel,25,Deluxe Room,3,Karnataka,0,2,3.2,0,0,0,0,1,0,0
+175,Hotel Rajdhani,Porbandar,Free Internet,India,21.63956862,69.60997553,5,Hotel,3,AC Dormitory,4.1,Gujarat,1,1,4.1,1,0,0,0,0,0,0
+176,Hotel Rajesh Palace,Chandigarh,Room Service|Internet Access,India,30.70579529,76.76506042,8,Hotel,12,AC Room,2.6,Punjab,1,1,2.6,0,0,1,0,1,0,0
+177,The Quorum,Mysore,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant,India,12.31249213,76.64058209,35,Hotel,57,Deluxe Room,4.1,Karnataka,0,4,4.5,0,1,1,1,1,1,1
+178,The Raj Palace,Jaipur,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant,India,26.93497935,75.83414685,15,Palace,9,Heritage Room,5,Rajasthan,1,5,4.2,0,1,1,1,1,1,1
+179,The Rajshahi Palace,Indore,Room Service|Internet Access|Restaurant,India,22.7178387,75.87876544,11,Hotel,10,Executive AC Room,3.9,Madhya Pradesh,1,1,3,0,0,1,1,1,0,0
+180,The Regency Inn,Rourkela,Room Service|Restaurant|Free Internet,India,22.2250629,84.8623948,1,Hotel,80,Standard Room,4.5,Orissa,1,3,4.5,1,0,0,1,1,0,0
+181,The Regent,Chandigarh,Room Service|Internet Access|Restaurant|Free Internet,India,30.72499406,76.76549794,0,Hotel,24,Executive Room,4.2,Punjab,1,3,4.3,1,0,1,1,1,0,0
+182,The Residency Towers,Chennai,Swimming Pool|Room Service|Internet Access,India,13.04063396,80.24372077,37,Hotel,162,Deluxe(No Smoking Room),4.3,Tamil Nadu,1,5,4.4,0,0,1,0,1,0,1
+183,The Resort,Mumbai,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant,India,19.17351377,72.79581899,3,Resort,74,Standard Room,4.3,Maharashtra,0,3,4.3,0,1,1,1,1,1,1
+184,The Richmond,Pondicherry,Internet Access|Restaurant,India,11.92817961,79.83212247,18,Hotel,19,Deluxe Room,4.4,Pondicherry,0,3,4.3,0,0,1,1,0,0,0
+185,The Roaring Salvan County,Bandhavgarh,Room Service|Swimming Pool|Restaurant,India,23.66493095,80.9251039,1,Resort,30,Cottage,4.7,Madhya Pradesh,0,4,4.9,0,0,0,1,1,0,1
+186,The Royal Inn,Udaipur,Room Service|Internet Access|Restaurant,India,24.59310838,73.70983413,8,Hotel,28,Royal Deluxe Room,3.5,Rajasthan,1,1,3.5,0,0,1,1,1,0,0
+187,The Royal Lake View Villa,Udaipur,Room Service|Restaurant,India,24.5804649,73.6795992,7,Guest House,5,Super Deluxe Room,4,Rajasthan,1,1,4,0,0,0,1,1,0,0
+188,The Royal Regency,Manali,Room Service|Internet Access|Restaurant|Free Internet,India,32.2367909,77.1944707,13,Hotel,24,Honeymoon Suite,4.5,Himachal Pradesh,1,1,4.7,1,0,1,1,1,0,0
+189,The Royale Country Retreat,Udaipur,Room Service|Internet Access|Free Internet,India,24.5819295,73.6393631,2,Homestay,6,Deluxe Room,4.1,Rajasthan,1,3,3.7,1,0,1,0,1,0,0
+190,The Sea Horse Resort,Goa,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant,India,15.57147884,73.75791168,4,Resort,38,Deluxe Room,4.3,Goa,1,3,4.3,0,1,1,1,1,1,1
+191,The Shubham Beach,Puri,Room Service|Internet Access|Restaurant,India,19.8035941,85.8436637,11,Hotel,12,Classic Room,4.1,Orissa,0,3,4.1,0,0,1,1,1,0,0
+192,The Signature Inn,Bangalore,Room Service,India,12.97304005,77.57071962,19,Hotel,43,Double Deluxe Non AC Room,4.2,Karnataka,0,2,4.2,0,0,0,0,1,0,0
+193,The Solitaire,Bangalore,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant,India,12.9847346,77.5794502,30,Hotel,104,Superior Room,3.6,Karnataka,0,4,3.6,0,1,1,1,1,1,1
+194,The Solitaire,Dehradun,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant,India,30.2877831,78.0466933,1,Hotel,53,Executive Suite,4.2,Uttarakhand,0,4,3.6,0,1,1,1,1,1,1
+195,The Solluna Resort,Corbett,Room Service|Swimming Pool|Restaurant,India,29.600425,79.0919133,5,Resort,47,Superior Room,4.4,Uttarakhand,0,5,4.9,0,0,0,1,1,0,1
+196,The SPK Hotel,Madurai,Room Service|Internet Access|Gym/Spa|Restaurant,India,9.932786942,78.1488961,4,Hotel,31,Standard Room,4.3,Tamil Nadu,1,3,4.6,0,1,1,1,1,1,0
+197,The Splendour Park- Trinity Circle,Bangalore,Room Service,India,12.9817147,77.6285585,10,Hotel,30,Deluxe Room,4,Karnataka,1,3,4,0,0,0,0,1,0,0
+198,The Tavern,Bangalore,Room Service,India,12.89081056,77.59483414,8,Service Apartment,10,Executive Non AC Room,4,Karnataka,0,1,4,0,0,0,0,1,0,0
+199,The Tiger Paw Resort,Masinagudi,Room Service,India,11.5721768,76.6427152,2,Resort,10,Standard Room,4,Tamil Nadu,1,2,4,0,0,0,0,1,0,0
+200,The Tubki Resort,Goa,Room Service|Swimming Pool|Restaurant,India,14.99793737,74.03962276,12,Resort,27,Standard Room,4.4,Goa,1,3,4.1,0,0,0,1,1,0,1
+201,The Ummed Ahmedabad,Ahmedabad,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant,India,23.0755844,72.6202567,11,Hotel,46,Deluxe Room,4.4,Gujarat,0,5,4.4,0,1,1,1,1,1,1
+202,The Urmi,Haridwar,Room Service|Internet Access|Restaurant,India,29.9873342,78.185477,4,Hotel,20,Deluxe AC Room,4.5,Uttarakhand,0,3,4.5,0,0,1,1,1,0,0
+203,The Village Inn,Goa,Room Service|Restaurant,India,15.3162262,73.9080581,6,Hotel,40,Deluxe Room,4,Goa,1,1,4,0,0,0,1,1,0,0
+204,The Villagio,Pahalgam,Room Service|Free Internet,India,33.9930878,75.3176793,2,Hotel,5,Deluxe Room,4.4,Jammu and Kashmir,0,3,4.4,1,0,0,0,1,0,0
+205,The Westend,Ahmedabad,Room Service|Internet Access|Restaurant,India,23.02173304,72.56784281,33,Hotel,40,Deluxe Room,4.5,Gujarat,1,3,3.9,0,0,1,1,1,0,0
+206,The Willow Resorts,Wayanad,Room Service|Restaurant,India,11.6137043,76.1970685,1,Resort,4,Two Bedroom Villa,4.5,Kerala,1,3,4.5,0,0,0,1,1,0,0
+207,The Wings Hotel,Jaipur,Room Service|Internet Access|Free Internet,India,26.8070234,75.8097867,6,Hotel,8,Non AC Room,4,Rajasthan,0,1,4,1,0,1,0,1,0,0
+208,Timber Trail Heights,Parwanoo,Room Service|Restaurant,India,30.8361531,76.981844,9,Resort,54,Deluxe Room,3.8,Himachal Pradesh,0,4,4,0,0,0,1,1,0,0
+209,Tourist Hotel,Manali,Room Service|Internet Access|Restaurant,India,32.25514,77.1838917,23,Hotel,12,Deluxe Room,4.2,Himachal Pradesh,0,2,4.1,0,0,1,1,1,0,0
+210,Town Country Guest House,Kodaikanal,Restaurant,India,10.2417371,77.4949696,11,Guest House,13,Deluxe Room,3.4,Tamil Nadu,1,1,3.8,0,0,0,1,0,0,0
+211,Tranquil Greens,Thekkady,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant|Free Internet,India,9.809305005,77.23682539,1,Resort,8,Executive Non AC Room,5,Kerala,1,3,5,1,1,1,1,1,1,1
+212,Tree of Life Jaagir Lodge,Lakhimpur,Swimming Pool|Room Service,India,28.50190426,80.50958969,1,Lodge,6,Luxury Room,4,Uttar Pradesh,0,5,4,0,0,0,0,1,0,1
+213,Treebo Arma Residency,Mumbai,Room Service|Internet Access,India,19.10663832,72.88994193,19,Hotel,40,Single Room,3.7,Maharashtra,1,2,3.7,0,0,1,0,1,0,0
+214,Treebo Aroma Residency,Jaipur,Room Service|Internet Access|Restaurant,India,26.93036878,75.79277236,6,Hotel,21,Standard Room,4.4,Rajasthan,1,3,4.7,0,0,1,1,1,0,0
+215,Treebo Bluten,Chennai,Room Service|Internet Access|Restaurant,India,13.04469,80.24226487,30,Hotel,18,Deluxe Room,4.1,Tamil Nadu,1,2,4.1,0,0,1,1,1,0,0
+216,Treebo Brooks Manor,Pune,Room Service,India,18.56607608,73.94696445,3,Hotel,22,Deluxe Room,4.2,Maharashtra,1,2,4.2,0,0,0,0,1,0,0
+217,Treebo Deccan 8,Pune,Room Service|Internet Access|Restaurant,India,18.51826477,73.83256531,30,Hotel,44,Standard Room,4.1,Maharashtra,1,3,4.1,0,0,1,1,1,0,0
+218,Treebo Elan,Chennai,Room Service|Internet Access|Restaurant,India,13.0565057,80.240306,21,Hotel,18,Deluxe Room,4.6,Tamil Nadu,1,2,4.4,0,0,1,1,1,0,0
+219,Treebo Elmas,Bangalore,Room Service|Internet Access,India,12.93530369,77.61312866,21,Hotel,24,Deluxe Double Room,4.2,Karnataka,1,3,4.6,0,0,1,0,1,0,0
+220,Treebo Golden Castle,Mysore,Room Service|Internet Access,India,12.3217336,76.6464852,29,Hotel,22,Standard Room,4.3,Karnataka,1,2,4.5,0,0,1,0,1,0,0
+221,Treebo KSR Park,Hyderabad,Room Service|Internet Access|Restaurant,India,17.43347036,78.37429786,9,Hotel,22,Standard Room,3.7,Andhra Pradesh,1,3,3.7,0,0,1,1,1,0,0
+222,Treebo Morgen Suites,Bangalore,Room Service|Restaurant,India,12.9735949,77.6070334,0,Hotel,16,Standard Room,3.6,Karnataka,1,3,3.6,0,0,0,1,1,0,0
+223,Treebo Royal Kourt,Aurangabad,Room Service|Restaurant,India,19.87298385,75.3213332,8,Hotel,34,Standard Room,3.8,Maharashtra,1,2,3.8,0,0,0,1,1,0,0
+224,Treebo Tara Residency,Hyderabad,Room Service|Gym/Spa,India,17.4581398,78.3699885,7,Hotel,38,Standard Double Room,4,Andhra Pradesh,1,3,4.4,0,1,0,0,1,1,0
+225,Treebo Woodsvilla Suites,Jaipur,Room Service|Internet Access|Restaurant,India,26.8910357,75.805535,26,Hotel,20,Deluxe Room,4.5,Rajasthan,1,3,4.5,0,0,1,1,1,0,0
+226,Tri Sea Residency,Chennai,Room Service|Internet Access,India,13.065873,80.2755293,30,Hotel,33,Standard Room,3.1,Tamil Nadu,0,3,3.8,0,0,1,0,1,0,0
+227,Trident Nariman Point,Mumbai,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant,India,18.9255728,72.8242221,27,Hotel,515,Superior Room,4.5,Maharashtra,0,5,4.7,0,1,1,1,1,1,1
+228,Triente Suites,Bangalore,Room Service,India,13.0280047,77.6399711,7,Hotel,10,Standard Room,4,Karnataka,0,1,4,0,0,0,0,1,0,0
+229,Tropical Blooms Homestay,Coorg,Room Service|Internet Access|Free Internet,India,12.3374942,75.8069082,1,Homestay,3,Standard Room,4,Karnataka,1,3,4,1,0,1,0,1,0,0
+230,Tuli Imperial,Nagpur,Room Service|Gym/Spa|Swimming Pool|Restaurant,India,21.1344867,79.0730964,12,Hotel,93,Deluxe Room,4.3,Maharashtra,1,5,4.3,0,1,0,1,1,1,1
+231,Tulip House,Allahabad,Room Service,India,25.4572339,81.8394058,5,Hotel,20,Club Room,2.6,Uttar Pradesh,0,3,2.6,0,0,0,0,1,0,0
+232,Tulip Inn Bangalore,Bangalore,Room Service|Internet Access|Restaurant,India,12.999357,77.5838052,15,Hotel,56,Superior Room,3.6,Karnataka,0,3,3.6,0,0,1,1,1,0,0
+233,Udai Haveli Guest House,Udaipur,Room Service,India,24.5777347,73.7014444,7,Guest House,6,Standard Room,4.9,Rajasthan,1,1,4.9,0,0,0,0,1,0,0
+234,UNA Smart Radiant Plaza,Barnala,Room Service|Internet Access|Free Internet,India,30.38237209,75.54442683,1,Hotel,28,Deluxe Room,4.4,Punjab,1,3,4.4,1,0,1,0,1,0,0
+235,United 21 Resort,Kodaikanal,Room Service|Restaurant,India,10.26178465,77.4915545,14,Resort,31,Standard Room,3.7,Tamil Nadu,0,3,4,0,0,0,1,1,0,0
+236,United 21 Resort,Mahabaleshwar,Room Service|Internet Access|Swimming Pool|Restaurant,India,17.92603193,73.6936346,0,Resort,31,Deluxe Room,3.7,Maharashtra,1,2,3.7,0,0,1,1,1,0,1
+237,Urban Retreat,Bangalore,Gym/Spa,India,12.9741527,77.6461942,9,Service Apartment,17,Deluxe Room,4.1,Karnataka,1,3,3.6,0,1,0,0,0,1,0
+238,Vardaan Resorts,Patnitop,Room Service|Restaurant,India,33.07337846,75.33515129,14,Hotel,45,Regular Junior Wing (Non-Heated- Portable Heaters),4.2,Jammu and Kashmir,0,3,3.5,0,0,0,1,1,0,0
+239,Varsha International,Thrissur,Room Service|Gym/Spa|Restaurant|Free Internet,India,9.743347768,76.51407597,1,Hotel,12,Deluxe AC Room,2.7,Kerala,1,3,3.3,1,1,0,1,1,1,0
+240,Vasco Residency,Goa,Restaurant,India,15.39755106,73.8127881,5,Hotel,6,Non AC Room,3.9,Goa,0,1,3.5,0,0,0,1,0,0,0
+241,Vedanta Wake Up - Ernakulam North Station,Cochin,Internet Access,India,9.9901897,76.2810132,3,Hotel,56,Double Deluxe AC Room,3.8,Kerala,1,1,4.1,0,0,1,0,0,0,0
+242,Vedanta Wake Up - Fern Hill,Kodaikanal,Internet Access|Free Internet,India,10.2432819,77.4937284,11,Hotel,34,Double Deluxe Non AC Room,3.7,Tamil Nadu,1,1,3.7,1,0,1,0,0,0,0
+243,Vedanta Wake Up - Town Center,Munnar,Internet Access,India,10.0837092,77.0615374,14,Hotel,17,Double Deluxe Non AC Room,4,Kerala,1,1,4,0,0,1,0,0,0,0
+244,Vedanta Wake Up - Town Center,Ooty,Internet Access,India,11.409461,76.708527,0,Hotel,51,Double Deluxe Room,2.4,Tamil Nadu,0,1,3.1,0,0,1,0,0,0,0
+245,Vesta International,Jaipur,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant,India,26.9145786,75.79107451,20,Hotel,82,Royal Deluxe Room,4,Rajasthan,0,4,4.1,0,1,1,1,1,1,1
+246,Vesta Maurya Palace,Jaipur,Room Service|Internet Access|Swimming Pool|Restaurant,India,26.91642506,75.81134717,33,Hotel,58,Royal Deluxe Room,4.1,Rajasthan,1,3,4.1,0,0,1,1,1,0,1
+247,Vestin Park,Chennai,Room Service|Internet Access|Restaurant|Free Internet,India,13.0669692,80.2595221,43,Hotel,17,Deluxe Room,3.9,Tamil Nadu,1,3,4.3,1,0,1,1,1,0,0
+248,Vihal Estancia,Yercaud,Room Service|Restaurant,India,11.78202014,78.19831955,6,Hotel,15,Valley View Room,3.9,Tamil Nadu,0,2,3.9,0,0,0,1,1,0,0
+249,Vihar Deluxe,Ratnagiri,Room Service|Restaurant,India,16.6577071,73.517692,2,Hotel,40,Non AC Room,4,Maharashtra,1,1,4.2,0,0,0,1,1,0,0
+250,Village Heart Cottage,Manali,Room Service|Internet Access|Free Internet,India,32.222579,77.1845794,4,Hotel,16,Deluxe Room,3.3,Himachal Pradesh,1,3,3.3,1,0,1,0,1,0,0
+251,Vinstar Serviced Apartments,Pune,Room Service|Gym/Spa|Restaurant,India,18.58458419,73.730404,3,Hotel,37,Standard Room,4.4,Maharashtra,1,3,4.5,0,1,0,1,1,1,0
+252,Vishnu Priya Lodge,Hyderabad,Room Service,India,17.4027421,78.4524591,0,Lodge,5,Deluxe AC Room,4,Andhra Pradesh,0,1,4,0,0,0,0,1,0,0
+253,VITS Hotel,Pune,Room Service|Gym/Spa|Swimming Pool|Restaurant|Free Internet,India,18.57130051,73.76461029,4,Hotel,100,Executive Room,4.1,Maharashtra,1,4,3.8,1,1,0,1,1,1,1
+254,VLS Residency,Vinukonda,Room Service,India,16.0568398,79.7453318,1,Hotel,12,Deluxe AC Room,3.5,Andhra Pradesh,0,1,3.5,0,0,0,0,1,0,0
+255,Volga Hotel,Pahalgam,Room Service|Internet Access|Restaurant|Free Internet,India,34.0203549,75.3151618,2,Hotel,90,Deluxe Room,3.5,Jammu and Kashmir,1,3,4.3,1,0,1,1,1,0,0
+256,Vora Corporate Inn,Nagpur,Room Service,India,21.1582486,79.0829521,6,Service Apartment,2,Standard AC Room,4,Maharashtra,1,1,4,0,0,0,0,1,0,0
+257,Vythiri Resort,Wayanad,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant,India,11.518487,76.045331,1,Resort,41,Honeymoon Pool Villa,4.3,Kerala,0,4,4.2,0,1,1,1,1,1,1
+258,Vythiri Village,Wayanad,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant,India,11.5613793,76.0419106,1,Resort,13,Deluxe Room,4.4,Kerala,1,5,4.4,0,1,1,1,1,1,1
+259,Wanderers Camps,Shimla,Internet Access|Gym/Spa,India,31.0856576,77.3008506,3,Tent,4,Luxury Room,5,Himachal Pradesh,1,3,4.1,0,1,1,0,0,1,0
+260,Wanderers Hostel,Goa,Internet Access|Swimming Pool,India,15.629444,73.735833,5,Hostel,65,Standard 6 Bed Mixed Dormitory,4.4,Goa,1,1,4.5,0,0,1,0,0,0,1
+261,Wanderlust Goa Retreat,Goa,Room Service,India,15.55751514,73.75357056,6,Service Apartment,4,2 Room Apartment,4,Goa,0,1,4,0,0,0,0,1,0,0
+262,Wangnoo Houseboats,Srinagar,Room Service|Restaurant|Free Internet,India,34.12174423,74.82722779,14,Houseboat,8,Deluxe Room,3.9,Jammu and Kashmir,1,3,3.7,1,0,0,1,1,0,0
+263,Wayanad Gate Resort,Wayanad,Room Service|Restaurant|Free Internet,India,11.84160552,76.05423349,9,Hotel,17,Deluxe Non AC Room,3.9,Kerala,0,1,4.1,1,0,0,1,1,0,0
+264,WelcomHeritage Gurkha Houseboats,Srinagar,Room Service|Free Internet,India,34.11859545,74.8274995,10,Houseboat,19,Deluxe Room,3.9,Jammu and Kashmir,0,2,4.4,1,0,0,0,1,0,0
+265,WelcomHeritage The Golf View,Pachmarhi,Room Service|Restaurant,India,22.4667,78.4333,14,Resort,19,Forsyth Suite Room,4.2,Madhya Pradesh,0,4,4.4,0,0,0,1,1,0,0
+266,WelcomHeritage Umed Bhawan Palace,Kota,Room Service|Restaurant,India,25.2096483,75.8664138,1,Palace,30,Deluxe Room,4,Rajasthan,1,4,4,0,0,0,1,1,0,0
+267,Westin Residency,Chennai,Room Service,India,13.0826802,80.2707184,28,Hotel,6,Non AC Double Room,5,Tamil Nadu,1,1,5,0,0,0,0,1,0,0
+268,Whispering Palms Beach Resort,Goa,Room Service|Gym/Spa|Swimming Pool|Restaurant,India,15.51032095,73.76816657,20,Resort,116,Balcony Room,4.1,Goa,0,4,4.2,0,1,0,1,1,1,1
+269,Whispering Valley Resort,Manali,Room Service|Restaurant,India,32.24507685,77.19190679,19,Resort,31,Deluxe Room,3.7,Himachal Pradesh,1,3,2.7,0,0,0,1,1,0,0
+270,White Square Nirvana,Goa,Room Service|Internet Access|Gym/Spa|Swimming Pool|Restaurant,India,15.5635065,73.8154394,4,Service Apartment,12,Deluxe AC Room,4.5,Goa,1,1,4.5,0,1,1,1,1,1,1
+271,Winnies Holiday Resort,Kasauli,Room Service|Internet Access|Gym/Spa|Restaurant|Free Internet,India,30.8961066,76.9937963,8,Hotel,39,Deluxe Room,4.5,Himachal Pradesh,0,3,4.4,1,1,1,1,1,1,0
+272,Wonderla Resort,Bangalore,Room Service|Gym/Spa|Swimming Pool|Restaurant,India,12.83811769,77.40180736,3,Resort,84,Deluxe Room,4.5,Karnataka,1,3,4.5,0,1,0,1,1,1,1
+273,Woodsvilla Resort,Ranikhet,Room Service|Internet Access|Restaurant|Free Internet,India,29.68216609,79.50057863,10,Resort,10,Deluxe Room,4.4,Uttarakhand,0,3,4.6,1,0,1,1,1,0,0
+274,Yashwant Niwas,Ganpatipule,Room Service,India,17.1488663,73.2726946,2,Homestay,9,2 Bed Room,2.8,Maharashtra,1,1,2.9,0,0,0,0,1,0,0
+275,Yasmin Resort,Srinagar,Room Service|Free Internet,India,34.01736298,74.799278,5,Resort,11,Double Room,3.4,Jammu and Kashmir,1,3,2.5,1,0,0,0,1,0,0
+276,Yogi Lodge,Varanasi,Room Service|Internet Access|Restaurant|Free Internet,India,25.3176452,82.9739144,4,Guest House,20,Single Room,4,Uttar Pradesh,0,1,4,1,0,1,1,1,0,0
+277,Yokoso Thar Desert Camp,Jaisalmer,Room Service,India,26.8416156,70.5458295,2,Tent,8,Swiss Cottage,4,Rajasthan,0,1,4,0,0,0,0,1,0,0
+278,Young Island Comforts,Bangalore,Room Service|Internet Access|Restaurant,India,12.9912573,77.5939384,0,Hotel,30,Standard Room,4.2,Karnataka,1,3,4.1,0,0,1,1,1,0,0
